@@ -1,0 +1,81 @@
+
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+   color: #d73af6;
+    
+}
+ about,a:active , a:focus{
+    color:red ;
+    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+/* line and char kel img centet*/
+.line_img_centar{
+    position:absolute;
+    top: 80px;
+    bottom: -70px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+/** 
+*? background img pranse
+**/
+
+.one,.tro ,.tre{
+    font-size: 204px;
+    font-weight: 800px;
+    color:#f7e3e2b5;
+}
+.covar_whit{
+    background: #FFFFFF;
+    mask-type: 440px;
+}
+.one,.tro,.tre{
+    position: absolute;
+    top: -150px;
+    right: 0px;
+}
+
+/* padding */
+
+.py_row_css{
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+
+/* position*/
+
+.angel_position{
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+}
+.position_right{
+    position: absolute;
+    top: 0%;
+ right: -2%;
+
+}
+.positon_daone{
+    position: absolute;
+    left: -2%;
+    bottom: 0%;
+}
+
+/**
+*  footer section 
+**/
+
+
+
+
